@@ -1,8 +1,8 @@
 == Mozilla Service Week 2009
 
-These slides have been realized by Luca Greco":http://github.com/rpl and "Davide Saurino":http://github.com/sub @"Alca Soc. Coop.":www.alcacoop.it for the Mozilla Service Week 2009 and you can see it at http://learn.alcacoop.it/2009/seminario-openweb/.
+These slides have been realized by {Luca Greco}[http://github.com/rpl] and {Davide Saurino}[http://github.com/sub] @{Alca Soc. Coop.}[www.alcacoop.it] for the Mozilla Service Week 2009 and you can see it at http://learn.alcacoop.it/2009/seminario-openweb/.
 
-The talk was presented at "I.T.S. E.MEDI Galatone":http://www.itismedi.it/ on 2009/09/21
+The talk was presented at {I.T.S. E.MEDI Galatone}[http://www.itismedi.it/] on 2009/09/21
 
 == Install slideshow 0.6.1
 
