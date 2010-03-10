@@ -1,4 +1,4 @@
-== Mozilla Service Week 2009
+== Mozilla Service Week 2009: OpenWeb: il Web è TUO!
 
 These slides have been realized by {Luca Greco}[http://github.com/rpl] and {Davide Saurino}[http://github.com/sub] @{Alca Soc. Coop.}[www.alcacoop.it] for the Mozilla Service Week 2009 and you can see it at http://learn.alcacoop.it/2009/seminario-openweb/.
 
