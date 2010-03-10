@@ -6,12 +6,12 @@ The talk was presented at "I.T.S. E.MEDI Galatone":http://www.itismedi.it/ on 20
 
 == Install slideshow 0.6.1
 
-[sudo] aptitude install libonig-dev
+  [sudo] aptitude install libonig-dev
 
-[sudo] gem install slideshow -v 0.6.1
+  [sudo] gem install slideshow -v 0.6.1
 
 == Slide generation
 
-cd slide
+  cd slide
 
-slideshow -i ../s6_template index.t
+  slideshow -i ../s6_template index.t
