@@ -1,0 +1,15 @@
+== Mozilla Service Week 2009
+
+These slides has been realized by "Luca Greco":http://github.com/rpl and "Davide Saurino":http://github.com/sub @"Alca Soc. Coop.":www.alcacoop.it for the Mozilla Service Week 2009.
+
+The talk was presented at "I.T.S. E.MEDI Galatone":http://www.itismedi.it/ on 2009/09/21
+
+== Install slideshow 0.6.1 ==
+
+[sudo] aptitude install libonig-dev
+[sudo] gem install slideshow -v 0.6.1
+
+== Slide generation ==
+
+cd slide
+slideshow -i ../s6_template index.t
